@@ -2,18 +2,18 @@
 <html lang="en" dir="ltr">
 
 <body>
-  <table cellspacing='30'>
+  <table cellspacing='20'>
     <tr>
       <td><img src="images/som.png" alt=""></td>
       <td>
         <h1><a href="http://somsubhra.ezyro.com/">Som Subhra</a></h1>
-        <h2>Engineer-Developer-Designer</h2>
+        <h6>Engineer-Developer-Designer</h6>
        
-         <h2> 👋 Hi, I’m @awes0m </h2>
-<p>- 👀 I’m interested in ...Python scripting</p>
+<h2>Hi, I’m @awes0m 👋</h2>
+<p>- 👀 I’m inerested in ...Python scripting</p>
 <p>- 🌱 I’m currently learning ...Flutter</p>
 <p>- 💞️ I’m looking to collaborate on ...Flutter and Django projects</p>
-<p>- 📫 How to reach me ...<somdevalmighty@gmail.com></p>     
+<p>- 📫 How to reach me ...<a href="somdevalmighty@gmail.com">somdevalmighty@gmail.com</a></p>     
       </td>
     </tr>
   </table>
