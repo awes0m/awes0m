@@ -8,11 +8,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
-<head>
-  <meta charset="utf-8">
-  <title>Som's Reprise-(Plain HTML)</title>
-</head>
-
 <body>
   <table cellspacing='30'>
     <tr>
@@ -24,6 +19,11 @@
         <p>A mechanical Engineering Student by education and a designer and Film maker by passion.</p>
         <p>I love to Hike to unknown places and experience new and exciting cuisines and cultures</p>
         <a href="ContactMe.html">Contact Me</a>
+        <h4>- 👋 Hi, I’m @awes0m
+- 👀 I’m interested in ...Python scripting
+- 🌱 I’m currently learning ...Flutter
+- 💞️ I’m looking to collaborate on ...Flutter and Django projects
+- 📫 How to reach me ...<somdevalmighty@gmail.com></h4>
       </td>
     </tr>
   </table>
