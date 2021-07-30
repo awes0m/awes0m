@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @awes0m
-- 👀 I’m interested in ...Python scripting
-- 🌱 I’m currently learning ...Flutter
-- 💞️ I’m looking to collaborate on ...Flutter and Django projects
-- 📫 How to reach me ...<somdevalmighty@gmail.com>
-
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
