@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Python scripting
 - 🌱 I’m currently learning ...Flutter
 - 💞️ I’m looking to collaborate on ...Flutter and Django projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...<somdevalmighty@gmail.com>
 
 <!---
 awes0m/awes0m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
