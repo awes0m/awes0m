@@ -6,18 +6,14 @@
     <tr>
       <td><img src="images/som.png" alt=""></td>
       <td>
-        <h1><a href="http://somsubhra.ezyro.com/">Som Subhra Pandit</a></h1>
+        <h1><a href="http://somsubhra.ezyro.com/">Som Subhra</a></h1>
         <h2>Engineer-Developer-Designer</h2>
-        <h4>Founder/CEO- <i><strong><a href="apisod.com">Apisod.com</a></strong></i></h4>
-         <h4>- 👋 Hi, I’m @awes0m </h4>
+       
+         <h2> 👋 Hi, I’m @awes0m </h2>
 <p>- 👀 I’m interested in ...Python scripting</p>
 <p>- 🌱 I’m currently learning ...Flutter</p>
 <p>- 💞️ I’m looking to collaborate on ...Flutter and Django projects</p>
-<p>- 📫 How to reach me ...<somdevalmighty@gmail.com></p>
-        
-        <a href="ContactMe.html">Contact Me</a>
-        <hr>
-       
+<p>- 📫 How to reach me ...<somdevalmighty@gmail.com></p>     
       </td>
     </tr>
   </table>
@@ -43,7 +39,7 @@ Training
 Blog
 About
 Loading complete
-
+ <h4>Founder/CEO- <i><strong><a href="apisod.com">Apisod.com</a></strong></i></h4>
 <!---
 awes0m/awes0m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
