@@ -18,12 +18,7 @@
     </tr>
   </table>
 
-  <hr size='3'>
-  <h3>Hobbies</h3>
-  <li>Filmmaking</li>
-  <li>Football</li>
-  <li>Graphics Design</li>
-  <hr>
+<hr/>
   
 </html>
 © 2021 GitHub, Inc.
