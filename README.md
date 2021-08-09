@@ -27,12 +27,7 @@ Privacy
 Security
 Status
 Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
 Loading complete
  <h4>Founder/CEO- <i><strong><a href="apisod.com">Apisod.com</a></strong></i></h4>
 <!---
