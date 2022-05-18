@@ -6,8 +6,14 @@
     <tr>
       <td><img src="images/som.png" alt=""></td>
       <td>
-        <h1><a href="http://somsubhra.ezyro.com/">Som Subhra</a></h1>
+        <h1><a href="http://som.apisod.com/">Som Subhra</a></h1>
         <h6>Engineer-Developer-Designer</h6>
+        
+    </br>
+    <div id="header" align="center">
+
+    <iframe src="https://giphy.com/embed/giKklFontfveZrNXjz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/powerup-oktopus-daimlertss-giKklFontfveZrNXjz">via GIPHY</a></p>
+      </div>
        
 <h2>Hi, I’m @awes0m 👋</h2>
 <p>- 👀 I’m inerested in ...Python scripting</p>
