@@ -14,8 +14,8 @@
        
 <h2>Hi, I’m @awes0m 👋</h2>
 <p>- 👀 I’m inerested in ...Python scripting</p>
-<p>- 🌱 I’m currently learning ...Flutter</p>
-<p>- 💞️ I’m looking to collaborate on ...Flutter and Django projects</p>
+<p>- 🌱 I’m currently learning ...JavaScript</p>
+<p>- 💞️ I’m looking to collaborate on ...Python anf Flutter projects</p>
 <p>- 📫 How to reach me ...<a href="somdevalmighty@gmail.com">somdevalmighty@gmail.com</a></p>     
       </td>
     </tr>
