@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is  SOM... and I'm a CyberSec Professional and Pentester, from Kolkata, India.<br><br>Creating bugs since 1995..</h3>
+<h3 align="left">Hi 👋! My name is  SOM... and I'm a CyberSec Professional and Web Pentester, <br> from Kolkata, India,Currently located in Delhi NCR.<br><br>Creating bugs since 1995..</h3>
 
 ###
 
