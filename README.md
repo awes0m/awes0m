@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is  SOM... and I'm a CyberSec Professional and Web Pentester, <br> from Kolkata, India,Currently located in Delhi NCR.<br><br>Creating bugs since 1995..</h3>
+<h3 align="left">Hi 👋! My name is SOM... and I'm a CyberSec Professional & Web Pentester, <br> from Kolkata, India — currently based in Delhi NCR.<br><br>Squashing bugs since 1995, crafting secure & clean code with precision 🚀</h3>
 
 ###
 
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mail to: somsubhra.pandit@gmail.com" target="_blank">
+  <a href="mailto:somsubhra.pandit@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/som-subhra/" target="_blank">
@@ -69,4 +69,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=awes0m&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
