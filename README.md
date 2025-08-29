@@ -3,8 +3,8 @@
 
 <br>
 <h4>VISIT</h4>
- <h4>   - My Portfolio <a href="https://awes0m.github.io/"></a></h4>
- <h4>   - Som Home- A Walkman styled Gallery<a href="https://awes0m.github.io/fortpolio/"></a></h4>
+ <a href="https://awes0m.github.io/"><h4>   - My Portfolio </h4></a>
+ <a href="https://awes0m.github.io/fortpolio/"><h4>   - Som Home- A Walkman styled Gallery></h4></a>
 
  <br>
 
