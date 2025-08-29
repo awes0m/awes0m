@@ -6,6 +6,10 @@
  <h4>   - My Portfolio <a href="https://awes0m.github.io/"></a></h4>
  <h4>   - Som Home- A Walkman styled Gallery<a href="https://awes0m.github.io/fortpolio/"></a></h4>
 
+ <br>
+
+<br>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
