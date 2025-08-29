@@ -1,6 +1,8 @@
 <h3 align="left">Hi 👋! My name is SOM... and I'm a CyberSec Professional & Web Pentester, <br> from Kolkata, India — currently based in Delhi NCR.<br><br>Squashing bugs since 1995, crafting secure & clean code with precision 🚀</h3>
 <br>
-### <h4>VISIT</h4>
+
+<br>
+<h4>VISIT</h4>
  <h4>   - My Portfolio <a href="https://awes0m.github.io/"></a></h4>
  <h4>   - Som Home- A Walkman styled Gallery<a href="https://awes0m.github.io/fortpolio/"></a></h4>
 
