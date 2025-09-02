@@ -1,79 +1,68 @@
-<h3 align="left">Hi 👋! My name is SOM... and I'm a CyberSec Professional & Web Pentester, <br> from Kolkata, India — currently based in Delhi NCR.<br><br>Squashing bugs since 1995, crafting secure & clean code with precision 🚀</h3>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=CyberSec+Professional+%26+Web+Pentester;Bug+Hunter+%7C+Code+Refiner;Crafting+Secure+%26+Clean+Code+Since+1995" alt="Typing SVG" />
+</p>
 
-<br>
-<h4>VISIT</h4>
- <a href="https://awes0m.github.io/">   - My Portfolio </a><br>
- <a href="https://awes0m.github.io/fortpolio/">   - Som Home- A Walkman styled Gallery </a>
+<h1 align="center">Hi there 👋, I'm SOM</h1>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=CyberSec+Professional+%26+Web+Pentester;Security+Researcher+/+Architect;Flutter+%26+Python+developer;" alt="Typing SVG" /></h3>
+<h4 align="center">From Kolkata, India — Currently based in Delhi NCR</h4>
 
- <br>
+<p align="center">
+  <em>Squashing bugs since 1995 — Crafting secure & clean code with precision 🚀</em>
+</p>
 
-<br>
+<img align="right" height="200" src="https://media0.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" alt="Hacker GIF"/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-</div>
+---
 
-###
+### 🌐 **Connect & Explore**
+- [**My Portfolio**](https://awes0m.github.io/)  
+- [**Som Home – A Walkman-styled Gallery**](https://awes0m.github.io/fortpolio/)  
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/awes0m/count.svg?"  />
-</div>
+---
 
-###
+### 🛠️ **Tech Arsenal**
 
 <div align="left">
-  <a href="https://www.instagram.com/_awe.som_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mailto:somsubhra.pandit@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/som-subhra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/16325695/awes0m" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
 </div>
 
-###
+---
 
-<img align="right" height="200" src="https://media0.giphy.com/media/YFkpsHWCsNUUo/giphy.gif"  />
-
-###
+### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awes0m&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awes0m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=awes0m&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awes0m&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </div>
 
-###
+---
+
+### 🔥 **Streaks & Activity**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=awes0m&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awes0m&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=awes0m&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awes0m&theme=react-dark&hide_border=false&area=true" height="300" />
 </div>
 
+---
+
+### 💡 **Fun Fact**
+> *I don't just find bugs — I refactor them into features!*
